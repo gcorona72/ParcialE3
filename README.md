@@ -52,5 +52,5 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 
 ## Autores
 
-- [Tu Nombre](https://github.com/tuusuario) - Desarrollador principal.
+- jose antonio oyono - Desarrollador principal.
 - Contribuciones de la comunidad.
